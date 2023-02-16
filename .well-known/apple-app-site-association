@@ -1,1 +1,17 @@
+// https://www.smartthings.com/.well-known/apple-app-site-association
 
+{
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appID": "ZL5R24NUNH.com.samsung.c2c.AppToAppiOS",
+        "paths": [
+          "/test-c2c-app-to-app-account-linking"
+        ]
+      }
+    ]
+  }
+}
