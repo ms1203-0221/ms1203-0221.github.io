@@ -9,7 +9,8 @@
       {
         "appID": "ZL5R24NUNH.com.samsung.c2c.AppToAppiOS",
         "paths": [
-          "/test-c2c-app-to-app-account-linking"
+          "/test-c2c-app-to-app-account-linking",
+          "/applink"
         ]
       }
     ]
